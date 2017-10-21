@@ -3,7 +3,7 @@
   <groupId>testJenkins</groupId>
   <artifactId>testJenkins</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <name>adametechsTestJenkins</name>
+  <name>adametechsTestJenkinss</name>
   <description>c'est un projet simple pour tester jenkins</description>
   <build>
     <sourceDirectory>src</sourceDirectory>
